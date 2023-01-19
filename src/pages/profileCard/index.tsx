@@ -3,7 +3,7 @@ import Image from 'next/image';
 import GlobalStyle from '../../styles/globalStyle';
 import Background from './bg-pattern-card.svg';
 import profileImg from './image-victor.jpg';
-import { Container } from './style';
+import { Container } from '../../styles/profile';
 
 export default function profileCard() {
   return (
