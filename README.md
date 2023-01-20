@@ -39,7 +39,7 @@
     </td>
     <td align="center">
       <img align="center" src="https://elievertongomes.site/images/styledcomponents-1.webp"/>
-      Styled Commponents
+      Styled Components
     </td>
   </tr>
 </table>
