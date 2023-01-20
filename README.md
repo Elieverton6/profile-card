@@ -41,5 +41,9 @@
       <img align="center" src="https://elievertongomes.site/images/styledcomponents-1.webp"/>
       Styled Components
     </td>
+    <td align="center">
+      <img align="center" src="https://elievertongomes.site/images/vercel-1.webp"/>
+      Vercel
+    </td>
   </tr>
 </table>
