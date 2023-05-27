@@ -23,8 +23,8 @@ export default function profileCard() {
             <Image className='image-profile' alt='' src={profileImg} />
             <div className='profile-name-age-city'>
               <div className='name-age'>
-                <h2>Victor Crest</h2>
-                <p>26</p>
+                <h2>Mike Jordan</h2>
+                <p>30</p>
               </div>
               <h3>London</h3>
             </div>
